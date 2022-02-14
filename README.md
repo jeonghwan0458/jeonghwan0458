@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=jeonghwan0458%20&fontSize=70)
-### 임베디드 펌웨어 개발을 공부하는 대덕소프트웨어 마이스터 정환입니다.
-### AVR, ARM, FPGA 쪽을 공부하고 있습니다.
+### I am Jeonghwan Jung, a master at Daedeok Software who is studying embedded firmware development.
+### I am studying AVR, ARM, FPGA side.
 
 ## Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

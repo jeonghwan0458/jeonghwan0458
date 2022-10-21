@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=jeonghwan0458%20&fontSize=70)
-### I am Jeonghwan Jung, a master at Daedeok Software who is studying embedded firmware development.
+### I am hwan Jeong,Daedeok Software Meister High School who is studying embedded firmware development.
 ### I am studying AVR, ARM, FPGA side.
 
 ## Language
